@@ -19,16 +19,16 @@
 
 
 	<preference name="deployment-target" value="10.0" />
-	<preference name="android-minSdkVersion" value="28" />
+	<preference name="android-minSdkVersion" value="21" />
 	<access origin="*" />
 
 	<plugin name="cordova-custom-config" />
 	<plugin name="cordova-plugin-dialogs" />
+	<plugin name="cordova-plugin-file" />
 	<plugin name="cordova-plugin-inappbrowser" />
 	<plugin name="cordova-plugin-statusbar" />
 	<plugin name="cordova-plugin-whitelist" />
 	<plugin name="cordova-plugin-wkwebview-engine" />
-	
 
 
 	<engine name="ios" />
