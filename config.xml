@@ -19,7 +19,7 @@
 
 
 	<preference name="deployment-target" value="10.0" />
-	<preference name="android-minSdkVersion" value="21" />
+	<preference name="android-minSdkVersion" value="28" />
 	<access origin="*" />
 
 	<plugin name="cordova-custom-config" />
